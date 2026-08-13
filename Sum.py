@@ -24,4 +24,16 @@ print("VAlue of this:",A+B*C)
 #   Arithmetic expression with integer and float ill result in float
 A , B = 20 , 30.0
 c = A*B
-print("Value of this:",c)
+print("Value of this:",c) 
+
+#   Result of (A//B) is same as  floor(A / B)
+# A,B = 12,5
+# A,B =-12 , 5
+A,B = 12 , -5
+C=A//B
+print(C)
+
+# SINGLE LINE COMMENT
+
+"""THIS IS A 
+MULTI-LINE COMMENT"""
