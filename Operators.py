@@ -7,4 +7,4 @@ print(a - b)
 print(a * b)
 print(a / b)
 print(a % b)          # to find remainder
-print(a ** b)         # to find power
+print(a ** b)         # to find power value
