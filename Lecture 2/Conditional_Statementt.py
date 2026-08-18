@@ -7,6 +7,8 @@ else:
     print("This is not Define")
 
 
+                                        # HERE ARE SOME PRACTICE QUESTION 
+
 # Grade based on marks
 marks =int(input("enter marks: "))
 
@@ -42,8 +44,9 @@ elif(b >= c):
 else:
     print("Largest number: ",c)
 
-# Check the number is multiple of n
 
+
+# Check the number is multiple of n
 x = int(input("Enter the number: "))
 if(x%2 == 0):
     print(x , " is multiple of 7")
