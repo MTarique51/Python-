@@ -32,4 +32,4 @@ print(mrks[2:4])
 print(mrks[4:])
 
 # According to -ve indexing
-print(mrks[-3:-1])
+print(mrks[-3:-1]) 
