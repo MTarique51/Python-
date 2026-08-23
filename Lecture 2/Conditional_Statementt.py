@@ -52,3 +52,4 @@ if(x%2 == 0):
     print(x , " is multiple of 7")
 else:
     print(x , " is not multiple of 7")
+    
