@@ -21,4 +21,4 @@ list.insert(1, 1111)   # insert element at index
 print("insert element at index: ",list)
 
 list.pop(1)            # removes element at index
-print("removes element at index: "list)
+print("removes element at index: ",list)
