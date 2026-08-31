@@ -15,7 +15,6 @@
 #  P A L I N D R O M E
 
 list1 = [1,2,2,1]
-list2 = [1,2,2,1,5]
 
 copy_list1 = list1.copy()
 copy_list1.reverse()
