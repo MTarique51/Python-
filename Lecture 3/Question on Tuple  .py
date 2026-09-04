@@ -20,6 +20,6 @@ copy_list1 = list1.copy()
 copy_list1.reverse()
 
 if(copy_list1 == list1):
-    print("This is Palindrome")
+    print("This is a Palindrome")
 else:
-    print(" This is Not Palindrome")
+    print(" This is Not a Palindrome")
