@@ -14,7 +14,7 @@
 
 #  P A L I N D R O M E
 
-list1 = [1,8,8,1]
+list1 = [1,0,0,1]
 
 copy_list1 = list1.copy()
 copy_list1.reverse()
