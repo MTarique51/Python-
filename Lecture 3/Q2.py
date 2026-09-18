@@ -19,3 +19,4 @@ if(copy_list2 == list2):
 else:
     print("List2 : Not Palindrome")
 
+
