@@ -1,7 +1,7 @@
 name = input("Enter your name: ")
 print("Welcome ", name)
 
-val = input("enter some value: ")
+val = input("Enter some value: ")
 print(type(val) , val)
 
 name = input("Enter your name: ")

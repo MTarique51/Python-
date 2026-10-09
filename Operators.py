@@ -31,7 +31,7 @@ num = 10
 # num /= 2
 # num %= 5
 num **= 2
-print("num: ", num)
+print("Num: ", num)
 
 
 # Logical Opertors
@@ -42,5 +42,5 @@ print(not (a>b))
 
 val1 = False
 val2 = False
-print("and operator:", val1 and val2)
-print("or operator:", (a == b) or (a >b))
+print("and Operator:", val1 and val2)
+print("or Operator:", (a == b) or (a >b))
