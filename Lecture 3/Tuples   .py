@@ -1,6 +1,6 @@
 # TUPLE IS IMMUTABLE
 
-tup = (2 , 1 , 5 , 9 , 4)
+tup = (2 , 1 , 5 , 2 , 4 , 2)
 print(type(tup))
 print(tup[0])
 print(tup[1])
@@ -15,4 +15,4 @@ print(tup[3])
 
 print("Value at index: ", tup.index(1))
 
-print("No of 1: ",tup.count(1))
+print("No of 1: ",tup.count(2))
